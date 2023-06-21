@@ -21,8 +21,6 @@ Before running this program, make sure you have the Go programming language inst
 5. Follow the on-screen prompts to enter two numbers and an operator.
 6. The program will perform the corresponding arithmetic operation and display the resul
 
-add some text
-
 
 
 ## Example
